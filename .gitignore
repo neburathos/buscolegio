@@ -1,0 +1,7 @@
+/__pycache__
+/.vscode
+/flaskblog/__pycache__
+/venv
+flaskblog/static/profile_pics
+.DS_Store
+
